@@ -5,6 +5,8 @@
 - 현재 시간이 날 때마다 읽는 책들입니다.
 
     - [헤드퍼스트 디자인 패턴](https://dlrtn.oopy.io/08223a85-02fc-47b0-a8c6-9deca9ec354f)
+    - [읽기 쉬운 코드가 좋은 코드다](https://dlrtn.oopy.io/c2beb70c-a079-445e-8135-519cac8aef7a)
+    - [단위 테스트](https://dlrtn.oopy.io/d0952387-8d2d-4fb6-a6ed-df2c816e5280)
 
 ### 가끔 생각날 때 읽고 있는 책들
 
